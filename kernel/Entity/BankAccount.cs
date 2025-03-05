@@ -7,7 +7,7 @@ using System.Transactions;
 
 namespace kernel.Entity
 {
-    public  class BankAccount
+    public  class BankAccount 
     {
         public string AccountId { get; set; }
         public string AccountHolderName { get; set; }
