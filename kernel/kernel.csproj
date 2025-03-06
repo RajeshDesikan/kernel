@@ -12,6 +12,7 @@
     <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="9.0.2" />
 	<PackageReference Include="Microsoft.SemanticKernel" Version="1.40.1" />
     <PackageReference Include="Microsoft.SemanticKernel.Core" Version="1.40.1" />
+    <PackageReference Include="Remote.Linq.Newtonsoft.Json" Version="7.2.2" />
   </ItemGroup>
 
 </Project>
